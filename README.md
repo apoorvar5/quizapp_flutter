@@ -1,4 +1,4 @@
-# Quizzler - Interactive Quiz App
+# Quiz App
 
 Welcome to Quizzler, an engaging quiz app that challenges users with a series of questions and provides instant feedback on their performance. Built using Flutter and Dart, this cross-platform app offers a seamless quiz experience on both iOS and Android devices.
 
